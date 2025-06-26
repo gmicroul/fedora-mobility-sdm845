@@ -54,5 +54,5 @@ ls -ltrh output/artifacts/
 gzip output/artifacts/Fedora-Mobility-Remix-SDM845-root.raw
 gzip output/artifacts/Fedora-Mobility-Remix-SDM845-boot.raw
 gzip output/artifacts/Fedora-Mobility-Remix-SDM845-esp.raw
-ls -ltrh 
+ls -ltrh output/artifacts/
 
