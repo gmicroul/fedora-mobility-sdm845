@@ -49,5 +49,10 @@ sudo mount -o loop,subvol=var output/artifacts/Fedora-Mobility-Remix-SDM845-root
 sudo rm -rf output/var-subvol/cache/libdnf5/*
 sudo umount output/var-subvol
 
-gzip -9 output/artifacts/*
+ls -ltrh output/artifacts/
+# gzip -9 output/artifacts/*
+gzip output/artifacts/Fedora-Mobility-Remix-SDM845-root.raw
+gzip output/artifacts/Fedora-Mobility-Remix-SDM845-boot.raw
+gzip output/artifacts/Fedora-Mobility-Remix-SDM845-esp.raw
+ls -ltrh 
 
