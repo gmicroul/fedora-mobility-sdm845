@@ -32,7 +32,7 @@ jobs:
         #if: steps.compile.outputs.status == 'success' && !cancelled()
         with:
           tag: Fedora-SDM845-Remix_${{ env.COMPILE_STARTINGTIME }}
-          artifacts: ./*.gz
+          artifacts: output/artifacts/*.gz
           allowUpdates: true
           token: ${{ secrets.GITHUB_TOKEN }}
           body: |
