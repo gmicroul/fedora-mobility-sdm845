@@ -60,7 +60,7 @@
 	<packages type="image" profiles="SDM845">
 		<namedCollection name="core"/>
 		<namedCollection name="base-graphical"/>
-		<namedCollection name="kde-desktop"/>
+		<namedCollection name="gnome-desktop"/>
 
 		<!--
 		        <namedCollection name="phosh-desktop"/>
