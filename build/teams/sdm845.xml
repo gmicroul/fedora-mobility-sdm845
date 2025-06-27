@@ -60,9 +60,10 @@
 	<packages type="image" profiles="SDM845">
 		<namedCollection name="core"/>
 		<namedCollection name="base-graphical"/>
-		<namedCollection name="phosh-desktop"/>
+		<namedCollection name="plasma-desktop"/>
 
 		<!--
+		        <namedCollection name="phosh-desktop"/>
 			SELinux is disabled for now, both to simplify the initial
 			bring up, and to allow us to build in Github Actions CI
 		-->
