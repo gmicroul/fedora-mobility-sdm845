@@ -1,7 +1,7 @@
 <image>
-	<repository type="rpm-md" alias="sdm845" sourcetype="baseurl" priority="98">
-		<source path="https://download.copr.fedorainfracloud.org/results/@mobility/sdm845/fedora-$releasever-$basearch/">
-			<signing key="https://download.copr.fedorainfracloud.org/results/@mobility/sdm845/pubkey.gpg"/>
+	<repository type="rpm-md" alias="msm8916" sourcetype="baseurl" priority="98">
+		<source path="https://download.copr.fedorainfracloud.org/results/@mobility/msm8916/fedora-$releasever-$basearch/">
+			<signing key="https://download.copr.fedorainfracloud.org/results/@mobility/msm8916/pubkey.gpg"/>
 		</source>
 	</repository>
 	<repository type="rpm-md" alias="phrog" sourcetype="baseurl" priority="98">
