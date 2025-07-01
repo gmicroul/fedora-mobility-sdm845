@@ -60,7 +60,7 @@
 	<packages type="image" profiles="SDM845">
 		<namedCollection name="core"/>
 		<namedCollection name="base-graphical"/>
-		<namedCollection name="plasma-mobile"/>
+		<namedCollection name="gnome-mobile"/>
 
 		<!--
 		        <namedCollection name="phosh-desktop"/>
