@@ -60,7 +60,7 @@
 	<packages type="image" profiles="SDM845">
 		<namedCollection name="core"/>
 		<namedCollection name="base-graphical"/>
-		<namedCollection name="sway"/>
+		<namedCollection name="phosh-desktop"/>
 
 		<!--
 		        <namedCollection name="phosh-desktop"/>
