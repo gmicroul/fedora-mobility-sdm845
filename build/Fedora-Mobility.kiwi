@@ -19,7 +19,7 @@
 	<include from="this://./components/common.xml"/>
 	<include from="this://./components/boot.xml"/>
 	<include from="this://./components/desktops/common.xml"/>
-	<include from="this://./components/desktops/phosh.xml"/>
+	<include from="this://./components/desktops/sway.xml"/>
 	<include from="this://./components/liveinstall.xml"/>
 	<include from="this://./components/users.xml"/>
 	<include from="this://./teams/base.xml"/>
